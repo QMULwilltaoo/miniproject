@@ -1,0 +1,21 @@
+id,ship_id,ship_name,ship_type,home_port,active
+1,AMERICANCHAMPION,American Champion,Tug,Port of Los Angeles,false
+2,AMERICANISLANDER,American Islander,Cargo,Port of Los Angeles,false
+3,AMERICANSPIRIT,American Spirit,Cargo,Port of Los Angeles,false
+4,ASOG,A Shortfall of Gravitas,Barge,Port Canaveral,false
+5,BETTYRGAMBARELLA,Betty R Gambarella,Tug,Port of Los Angeles,false
+6,ELSBETH3,Elsbeth III,Tug,Port Canaveral,false
+7,GONAVIGATOR,GO Navigator,Cargo,Port Canaveral,true
+8,GOPURSUIT,GO Pursuit,Cargo,Port Canaveral,false
+9,GOQUEST,GO Quest,Cargo,Port Canaveral,true
+10,GOSEARCHER,GO Searcher,Cargo,Port Canaveral,true
+11,HAWK,HAWK,Tug,Port Canaveral,true
+12,JRTI-1,Just Read The Instructions,Barge,Port Canaveral,false
+13,JRTI-2,Just Read The Instructions,Barge,Port of Los Angeles,true
+14,KELLYC,Kelly C,Tug,Port of Los Angeles,false
+15,MRSTEVEN,MR STEVEN,High Speed Craft,Port Canaveral,true
+16,NRCQUEST,NRC Quest,Cargo,Port of Los Angeles,true
+17,OCISLY,Of Course I Still Love You,Barge,Port Canaveral,true
+18,PACIFICFREEDOM,Pacific Freeedom,Tug,Port of Los Angeles,true
+19,PACIFICWARRIOR,Pacific Warrior,Tug,Port of Los Angeles,false
+20,RACHEL,RACHEL,Tug,Port Canaveral,false
