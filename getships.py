@@ -13,9 +13,10 @@ def hello():
     name = request.args.get("name","World")
     return('<h1>Hello, {}!</h1>'.format(name))
 
-# get the data we need, return in json format in the web page
+# get the data using RESTful GET method, return in json format in the web page
 @app.route('/ships', methods=['GET'])
 def spacex():
+    # url is the external REST API where we get data 
     url = 'https://api.spacexdata.com/v3/ships'
     resp = requests.get(url)
     if resp.ok:
